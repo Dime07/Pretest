@@ -1,0 +1,153 @@
+body {
+  color: white;
+  scroll-behavior: smooth;
+}
+
+.wrap-container {
+  overflow: hidden;
+}
+
+.form-control {
+  width: 460px !important;
+  height: 59px !important;
+}
+
+.btn-login {
+  color: #cd7bff;
+  font-weight: bold;
+  background-color: #ffffff;
+  border-radius: 5px;
+  width: 110px;
+  height: 45px;
+  border: 1px solid #cd7bff;
+}
+
+.btn-login:hover {
+  color: #cd7bff;
+  font-weight: bold;
+  background-color: #7014a93a;
+  border-radius: 5px;
+  width: 110px;
+  height: 45px;
+  border: none;
+}
+
+.buat-tiket {
+  background-color: #7014a9;
+  color: #ffffff;
+  width: 208px;
+  height: 48px;
+  border: none;
+}
+.scnd-menu {
+  border-left: 1px solid rgba(65, 65, 65, 0.144);
+  padding: 0px;
+}
+
+.nav-link {
+  color: #413f3f !important;
+  font-weight: bold;
+}
+.nav-link:hover {
+  color: #f05a86 !important;
+}
+
+nav.navbar.navbar-expand-lg.scnd-navbar {
+  border: 1px solid rgba(48, 48, 48, 0.39);
+  padding: 0px;
+}
+
+.gallery {
+  list-style-type: none;
+  padding: 0px;
+}
+
+.thumb:hover {
+  filter: brightness(50%);
+}
+
+.gallery li {
+  margin-bottom: 8px;
+}
+
+td {
+  width: 50% !important;
+  height: 28px !important;
+  padding: 5px !important;
+}
+
+p {
+  font-size: 14px;
+}
+
+.btn-jam,
+.btn-allday {
+  color: white;
+  background-color: #7014a9;
+  border-radius: 3px;
+  border: none;
+  font-weight: bold;
+}
+
+.btn-weekend {
+  color: white;
+  background-color: #ea24be;
+  border-radius: 3px;
+  border: none;
+  font-weight: bold;
+}
+
+.information {
+  color: black;
+  background-color: #eadcf2 !important;
+  margin-top: 20px;
+}
+
+.desc {
+  margin-top: 20px;
+  border: 1px solid rgba(48, 48, 48, 0.39);
+  border-radius: 5px;
+}
+
+.pilih-tiket {
+  margin-top: 20px;
+  border: 1px solid rgba(48, 48, 48, 0.39);
+  border-radius: 5px;
+  background-color: #f6f6f6;
+}
+
+.btn-pilih {
+  border: 1px solid rgba(48, 48, 48, 0.39);
+  background-color: #ffffff;
+  color: #cd7bff;
+  border: none;
+  height: 30px;
+}
+
+.btn-pilih:hover {
+  background-color: #eadcf2;
+}
+.btn-pilih:active {
+  background-color: #eadcf2;
+}
+
+.btn-checkout,
+.checkout {
+  color: white !important;
+  background-color: #7014a9 !important;
+  border-radius: 3px;
+}
+
+.btn-min,
+.btn-plus {
+  color: #672c89 !important;
+  font-style: bold !important;
+  border: 1px solid black !important;
+  padding: 1px 10px !important;
+  height: 32px !important;
+}
+
+.btn-min:hover,
+.btn-plus:hover {
+  background-color: #eadcf2 !important;
+}
